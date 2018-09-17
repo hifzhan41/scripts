@@ -30,7 +30,7 @@ Run Commands
 Example
 
 ```bash
-      bash scripts/whyred/darkstar.sh 
+      bash scripts/setup/setup.sh; bash scripts/setup/ninja.sh; bash scripts/setup/ccache.sh
 ```
 
 * It will clone all files automatically.
