@@ -18,7 +18,7 @@ Run Commands
 * Clone this repo into Rom Source Directry.(i.e if you are syncing *lineage* then in ~/lineage).
 
 ```bash
-      git clone https://github.com/Sweeto143/scripts.git -b darkstar
+      git clone https://github.com/hifzhan41/scripts.git -b darkstar
 ```
 
 * Clone the source you want.
