@@ -3,7 +3,7 @@ Run Commands
 ------------
 
 ```bash
-      git clone https://github.com/zhantech/scripts.git -b tools
+      git clone https://github.com/zhantech/tools_compile.git -b tools
 ```
 
 * Clone the source you want.
