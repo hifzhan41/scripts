@@ -1,36 +1,23 @@
 
------------------------------------------------------------------------
-
-<p align="center">
- <img src="https://github.com/Sweeto143/scripts/blob/darkstar/logo.png" > 
-</p>
-
------------------------------------------------------------------------
-
-
-Sources For Land & Whyred
-====================================
-
-
 Run Commands
 ------------
 
 * Clone this repo into Rom Source Directry.(i.e if you are syncing *lineage* then in ~/lineage).
 
 ```bash
-      git clone https://github.com/hifzhan41/scripts.git -b darkstar
+      git clone https://github.com/zhantech/scripts.git -b tools
 ```
 
 * Clone the source you want.
 
 ```bash
-      bash scripts/<name_of_the_source> 
+      bash tools_compile/<name_of_the_source> 
 ```
 
 Example
 
 ```bash
-      bash scripts/setup/setup.sh; bash scripts/setup/ninja.sh; bash scripts/setup/ccache.sh
+      bash tools_compile/setup/setup.sh; bash tools_compile/setup/ninja.sh; bash tools_compile/setup/ccache.sh
 ```
 
 * It will clone all files automatically.
