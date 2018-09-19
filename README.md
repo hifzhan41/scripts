@@ -15,7 +15,7 @@ Run Commands
 Example
 
 ```bash
-      bash tools_compile/setup/setup.sh; bash tools_compile/setup/ninja.sh; bash tools_compile/setup/ccache.sh
+      bash tools_compile/setup/setup.sh && bash tools_compile/setup/ninja.sh && bash tools_compile/setup/ccache.sh
 ```
 
 * It will clone all files automatically.
