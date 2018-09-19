@@ -2,8 +2,6 @@
 Run Commands
 ------------
 
-* Clone this repo into Rom Source Directry.(i.e if you are syncing *lineage* then in ~/lineage).
-
 ```bash
       git clone https://github.com/zhantech/scripts.git -b tools
 ```
